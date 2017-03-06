@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Joomla! CMS™ [![Analytics](https://ga-beacon.appspot.com/UA-544070-3/joomla-cms/readme)](https://github.com/igrigorik/ga-beacon)
 ====================
 
@@ -94,3 +95,7 @@ Copyright
 * [Special Thanks](https://docs.joomla.org/Joomla!_Credits_and_Thanks)
 * Distributed under the GNU General Public License version 2 or later
 * See [License details](https://docs.joomla.org/Joomla_Licenses)
+=======
+# Joomla37test
+testing git deployment with J!3.7 release
+>>>>>>> da0dc71df76d66162ef28bad1be67eed3ed2b80e
