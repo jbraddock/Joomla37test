@@ -1,0 +1,14 @@
+/.htaccess
+/**/cache
+/**/logs
+/**/tmp
+/administrator/cache/*
+/administrator/logs/*
+/cache/*
+/bin/*
+/cli/*
+/installation/*
+/configuration.php
+/index.php
+/joomla.xml
+/robots.txt.dist
